@@ -1,0 +1,27 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.1">
+  <diagram name="Page-1" id="jkCQAeMUFBe3ucYyvj8W">
+    <mxGraphModel dx="946" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yuaAU4oNQzj9c3a-O42F-1" value="" style="rounded=1;arcSize=10;dashed=0;fillColor=none;gradientColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="430" y="150" width="570" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="yuaAU4oNQzj9c3a-O42F-2" value="" style="dashed=0;html=1;shape=mxgraph.aws3.cloud;fillColor=#F58536;gradientColor=none;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="140" width="60" height="40" as="geometry" />
+        </mxCell>
+        <object label="Private Subnet" id="yuaAU4oNQzj9c3a-O42F-3">
+          <mxCell style="rounded=1;arcSize=10;dashed=0;fillColor=none;gradientColor=none;strokeWidth=2;verticalAlign=bottom;labelBackgroundColor=none;fontFamily=Verdana;fontSize=16;" vertex="1" parent="1">
+            <mxGeometry x="770" y="210" width="200" height="200" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="yuaAU4oNQzj9c3a-O42F-4" value="" style="dashed=0;html=1;shape=mxgraph.aws3.permissions;fillColor=#D9A741;gradientColor=none;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="190" width="30" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="yuaAU4oNQzj9c3a-O42F-7" value="Amazon RDS" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.rds;" vertex="1" parent="1">
+          <mxGeometry x="880" y="250" width="60" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
